@@ -24,7 +24,7 @@ import (
 	"github.com/tendermint/tendermint/libs/cli"
 
 	"github.com/johnreitano/nameservice/app"
-	// this line is used by starport scaffolding # 1
+	// this line is used by starport scaffolding
 )
 
 func main() {
